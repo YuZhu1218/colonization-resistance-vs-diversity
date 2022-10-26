@@ -5,7 +5,11 @@ Mediator-explicit model is firstly introduced in the paper "Niehaus et al (2019)
 
 ## Files
 
-    CommunityResistanceSimulation.m - the main script that simulate 10,000 samples of microbial community and introduce an invader, returns the composition of species before and after invasion
+    CommunityResistanceSimulation.m -- the main script that simulate 10,000 samples of microbial community and introduce an invader, returns the composition of species before and after invasion
+    DistInteractionStrengthMT_PA.m  -- the function to construct the interaction matrix between species and chemicals with 50:50 ratio of positive and negative interactions
+    DistInteractionStrengthMT_PB.m --  the function to construct the interaction matrix between species and chemicals with a defined fraction of positive interactions over all interacions
+    WellmixedInteraction_DpMM_ExMT4C.m -- the mixing and dynamic progress of microbial community 
+    NetworkConfig_Binomial.m -- 
 
 
 
