@@ -5,6 +5,7 @@ Mediator-explicit model is firstly introduced in the paper "Niehaus et al (2019)
 
 ## Files
 
+    CommunityResistanceSimulation.m - the main script that simulate 10,000 samples of microbial community and introduce an invader, returns the composition of species before and after invasion
 
 
 
