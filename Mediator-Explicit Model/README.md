@@ -9,7 +9,7 @@ Mediator-explicit model is firstly introduced in the paper "Niehaus et al (2019)
     DistInteractionStrengthMT_PA.m  --the function to construct the interaction matrix between species and chemicals with 50:50 ratio of positive and negative interactions.
     DistInteractionStrengthMT_PB.m --the function to construct the interaction matrix between species and chemicals with a defined fraction of positive interactions over all interacions.
     WellmixedInteraction_DpMM_ExMT4C.m --the mixing and dynamic progress of microbial community.
-    NetworkConfig_Binomial.m --the function that returns the a matrix of certain size where the each cell is a bionomial probability with defined p.
+    NetworkConfig_Binomial.m --the function that returns a matrix of certain size where the each cell is a bionomial probability with defined p.
 
 
 
